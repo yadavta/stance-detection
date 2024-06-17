@@ -1,0 +1,8 @@
+remote_theme: pages-themes/minimal@v0.2.0
+title: Political Stance Detection
+description: A research project exploring the effects of pre-training on a specific political stance detection task inspired by high school debate.
+show_downloads: false
+github:
+  is_project_page: false
+plugins:
+- jekyll-remote-theme
